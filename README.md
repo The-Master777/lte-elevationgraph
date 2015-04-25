@@ -19,6 +19,6 @@ usage: graph.R csv out h0 h1 [h2, ...]
   --help:  print this help
 ```
 
-### Example grapth
+### Example graph
 
 <img src="https://raw.githubusercontent.com/The-Master777/lte-elevationgraph/master/example.png" width="585px" height="248px" />
